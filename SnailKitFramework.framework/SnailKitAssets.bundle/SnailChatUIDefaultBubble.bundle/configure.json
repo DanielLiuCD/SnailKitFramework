@@ -1,0 +1,12 @@
+{
+"left_image": {
+"name": "chat_from_bg_normal",
+"resizableInsets":"{30,15,10,10}",
+"safeInsets":"{10,15,10,10}"
+},
+"right_image": {
+"name": "chat_to_bg_normal",
+"resizableInsets":"{30,10,10,15}",
+"safeInsets":"{10,10,10,15}"
+}
+}

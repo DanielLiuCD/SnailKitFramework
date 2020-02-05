@@ -1,0 +1,6 @@
+framework module SnailKitFramework {
+  umbrella header "SnailKitFramework.h"
+
+  export *
+  module * { export * }
+}
