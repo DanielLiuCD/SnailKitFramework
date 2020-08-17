@@ -79,6 +79,11 @@
 #define Snail_Size_Center_X(A,B) ((A.width - B.width) * .5)
 #define Snail_Size_Center_Y(A,B) ((A.height - B.height) * .5)
 
+#define Snail_Float_Screen_Width UIScreen.mainScreen.bounds.size.width
+#define Snail_Float_Screen_Height UIScreen.mainScreen.bounds.size.height
+#define Snail_Float_Min_Screen_WH MIN(Snail_Float_Screen_Width,Snail_Float_Screen_Height)
+#define Snail_Float_Max_Screen_WH MAX(Snail_Float_Screen_Width,Snail_Float_Screen_Height)
+
 #define Snail_Font_Label [UIFont systemFontOfSize:[UIFont labelFontSize]]
 #define Snail_Font_Button [UIFont systemFontOfSize:[UIFont buttonFontSize]]
 #define Snail_Font_SmallSystem [UIFont systemFontOfSize:[UIFont smallSystemFontSize]]

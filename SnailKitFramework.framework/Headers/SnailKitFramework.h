@@ -59,4 +59,5 @@ FOUNDATION_EXPORT const unsigned char SnailKitFrameworkVersionString[];
 #import <SnailKitFramework/SnailPostMan.h>
 #import <SnailKitFramework/SnailPostManProtocol.h>
 #import <SnailKitFramework/SnailPostManSession.h>
-
+#import <SnailKitFramework/SnailAVPlayerManager.h>
+#import <SnailKitFramework/SnailNumberFiled.h>

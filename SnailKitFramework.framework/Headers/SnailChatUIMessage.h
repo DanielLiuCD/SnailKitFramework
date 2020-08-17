@@ -51,8 +51,6 @@ NS_ASSUME_NONNULL_BEGIN
 ///返回显示类容的大小
 - (CGSize)contentSize;
 
-
-
 @end
 
 @interface SnailChatUIMessage(Private)

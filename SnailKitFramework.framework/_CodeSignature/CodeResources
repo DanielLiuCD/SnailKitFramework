@@ -24,6 +24,10 @@
 		<data>
 		u+TCoUGHUgEA1U6OQiBi7zuo5CE=
 		</data>
+		<key>Headers/SnailAVPlayerManager.h</key>
+		<data>
+		b8CgUIbu2mJyBLs+Wl8RmZOBPlo=
+		</data>
 		<key>Headers/SnailAlertContainerController.h</key>
 		<data>
 		a76EZ/n4nI3Kki6uQab7H46YQoo=
@@ -58,7 +62,7 @@
 		</data>
 		<key>Headers/SnailButton.h</key>
 		<data>
-		5vxL5Eamdek0qBvfFau0MmAfAVo=
+		9DBDmmeIreuBb1S2Sfq/AxDqqhU=
 		</data>
 		<key>Headers/SnailCalendar.h</key>
 		<data>
@@ -158,7 +162,7 @@
 		</data>
 		<key>Headers/SnailChatUIMessage.h</key>
 		<data>
-		CTDPOo+ak2xC5dRlEb2ObEsOPJU=
+		kuAoYhi9KGccq5DUGhA731mugNk=
 		</data>
 		<key>Headers/SnailChatUIMessageBaseLayout.h</key>
 		<data>
@@ -278,15 +282,11 @@
 		</data>
 		<key>Headers/SnailImageSelect.h</key>
 		<data>
-		93JHQQOVpsCTE+0gH/wA4B2nj8I=
+		hCFZl0eyrrFCQujeFnDZgh7bIvo=
 		</data>
 		<key>Headers/SnailKitFramework.h</key>
 		<data>
-		rMQBlU3b5MknDnVF2wrIfHsLAhI=
-		</data>
-		<key>Headers/SnailKitPrivateHeader.h</key>
-		<data>
-		fksphdvRqHuDZZ5Fu9zJo2UslFE=
+		E85/X26OXxqDY7fnMBmIh+DfOvg=
 		</data>
 		<key>Headers/SnailLanguageSwitch.h</key>
 		<data>
@@ -302,11 +302,11 @@
 		</data>
 		<key>Headers/SnailMenuBar.h</key>
 		<data>
-		eIH9alTEEmV9DulvndDIGHJ72h0=
+		AiuXdp/DRdvlxB210Tes8QXTUGI=
 		</data>
 		<key>Headers/SnailMenuBarButton.h</key>
 		<data>
-		Nu/Xf2iF3/BZgUeqJAKUVOH5VQU=
+		6MEXFTUD+f0BFGRROqIMqe5W6kY=
 		</data>
 		<key>Headers/SnailMenuBarController.h</key>
 		<data>
@@ -318,7 +318,7 @@
 		</data>
 		<key>Headers/SnailMenuBarItem.h</key>
 		<data>
-		qUjQ2AZwrYUjAWYiJcqA5EAR0JU=
+		LY/S5b5CAKKPnSRMYVH97op0380=
 		</data>
 		<key>Headers/SnailMenuContent.h</key>
 		<data>
@@ -327,6 +327,10 @@
 		<key>Headers/SnailMenuDefine.h</key>
 		<data>
 		vuVzCasgj2ejmDxxVt8yewrKyGE=
+		</data>
+		<key>Headers/SnailNumberFiled.h</key>
+		<data>
+		NYDw4UVFkGqUA+o6pQL2rGMpMok=
 		</data>
 		<key>Headers/SnailPhotoFlowLayout.h</key>
 		<data>
@@ -346,15 +350,15 @@
 		</data>
 		<key>Headers/SnailPostMan.h</key>
 		<data>
-		UUWVulLdQTu/66m2xeOFtTAxQOQ=
+		KaREEipIcZpq7tGtWXUJ8m46dpk=
 		</data>
 		<key>Headers/SnailPostManProtocol.h</key>
 		<data>
-		IVL6nFIegL5kOB6dqdsD08Tv0uY=
+		IrYadHAAEDAub1nEnjAVbljeYao=
 		</data>
 		<key>Headers/SnailPostManSession.h</key>
 		<data>
-		3sdYMFopPLHGcZQwUps/9dt07mo=
+		nuUthZ6vg5bqyIxQP8djzzBsacc=
 		</data>
 		<key>Headers/SnailScanCodeController.h</key>
 		<data>
@@ -390,19 +394,19 @@
 		</data>
 		<key>Headers/SnailSimpleWebController.h</key>
 		<data>
-		Yj6dxWh9MkLHs9eBOzJQh05RILg=
+		2qHRvruelp+g3AHohfeRHDFV7rI=
 		</data>
 		<key>Headers/SnailStarBar.h</key>
 		<data>
-		PSvxTPFQOElil3VtDZUFhze4Dv0=
+		wtMZM/3P7udL1CyuinHxouocyMM=
 		</data>
 		<key>Headers/SnailTextView.h</key>
 		<data>
-		VDuPiwirHl/rviSY8yRfnzD+P4s=
+		5/lIQ3oTeXds4LU2LF/8lAJqc0g=
 		</data>
 		<key>Headers/SnailTool.h</key>
 		<data>
-		1rKYlIIXvP7JCZvCTFsTI44K6/o=
+		I/In8JBbWKm05moTPiCE4w0NgRs=
 		</data>
 		<key>Headers/SnailUncaughtException.h</key>
 		<data>
@@ -414,7 +418,7 @@
 		</data>
 		<key>Headers/SnailViewControllerConfigureManager.h</key>
 		<data>
-		1HwXaS4J659L+Jp40UziC0SrFxQ=
+		4lolkUu5EzNQgCEdMzcaig2lTug=
 		</data>
 		<key>Headers/UIColor+Snail.h</key>
 		<data>
@@ -459,10 +463,6 @@
 		<key>Modules/module.modulemap</key>
 		<data>
 		UTMoLQ8CAVhCozbg2g1ygFEgUI8=
-		</data>
-		<key>PrivateHeaders/_SnailBadgeDragView.h</key>
-		<data>
-		yXCDoqNcZpbyo209oS4xduqplJI=
 		</data>
 		<key>SnailKitAssets.bundle/SnailChatUIDefaultBubble.bundle/chat_from_bg_normal@2x.png</key>
 		<data>
@@ -730,6 +730,17 @@
 			10yWpULrW4DJrsnm6UI3nuO4tCerU4hNI46jhLNGY/A=
 			</data>
 		</dict>
+		<key>Headers/SnailAVPlayerManager.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			b8CgUIbu2mJyBLs+Wl8RmZOBPlo=
+			</data>
+			<key>hash2</key>
+			<data>
+			khahL9Ip4t65OV2c/X30dYFbSu7tabpz0X6SPRkhljE=
+			</data>
+		</dict>
 		<key>Headers/SnailAlertContainerController.h</key>
 		<dict>
 			<key>hash</key>
@@ -822,11 +833,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5vxL5Eamdek0qBvfFau0MmAfAVo=
+			9DBDmmeIreuBb1S2Sfq/AxDqqhU=
 			</data>
 			<key>hash2</key>
 			<data>
-			H5aaHF9DW2KPiQ67IR1QTW45Eyyr1iiNA9HQdIa2lVM=
+			Eej/9ZJ29u07dsmFFiVmHPSXHJdPTv/0J4GDeTYyuIk=
 			</data>
 		</dict>
 		<key>Headers/SnailCalendar.h</key>
@@ -1097,11 +1108,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CTDPOo+ak2xC5dRlEb2ObEsOPJU=
+			kuAoYhi9KGccq5DUGhA731mugNk=
 			</data>
 			<key>hash2</key>
 			<data>
-			+ANyDxqDPFjJHk+dPoKoImxW+8651pvJxQ6I6buvepw=
+			udzzzZvVJW/TTeclrb/xeCwIV6a9G6c2YcyYECFZ5NY=
 			</data>
 		</dict>
 		<key>Headers/SnailChatUIMessageBaseLayout.h</key>
@@ -1427,33 +1438,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			93JHQQOVpsCTE+0gH/wA4B2nj8I=
+			hCFZl0eyrrFCQujeFnDZgh7bIvo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZcoXE9c+4GXgETl2bH056gkn6dbqH4qjoqoA1brMF/4=
+			uVtcf9NmqIurwQrvoQxqjJ8qNV7qXEiQG1kmX/1Bekk=
 			</data>
 		</dict>
 		<key>Headers/SnailKitFramework.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rMQBlU3b5MknDnVF2wrIfHsLAhI=
+			E85/X26OXxqDY7fnMBmIh+DfOvg=
 			</data>
 			<key>hash2</key>
 			<data>
-			LCrDMZUYNfYTRXWj2Ltrt6zHYZu1HHDn2EG/YxTB2sc=
-			</data>
-		</dict>
-		<key>Headers/SnailKitPrivateHeader.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fksphdvRqHuDZZ5Fu9zJo2UslFE=
-			</data>
-			<key>hash2</key>
-			<data>
-			GpILwNKPrzAOtVLfnxB1vpCCYnpUn2ac3uiQYN2YJZQ=
+			olFS71SG0Y1EDrOj6MaTGulua5fQLVwGjETnN2DfWt8=
 			</data>
 		</dict>
 		<key>Headers/SnailLanguageSwitch.h</key>
@@ -1493,22 +1493,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eIH9alTEEmV9DulvndDIGHJ72h0=
+			AiuXdp/DRdvlxB210Tes8QXTUGI=
 			</data>
 			<key>hash2</key>
 			<data>
-			4aNUNsgLPof996OvaAdPhAx3NF/fwAGR4eWrnS7eXL4=
+			MhQsEmzcujXpElTCY39Iw3SpL7/4v8NAX3sbXSs1Cvs=
 			</data>
 		</dict>
 		<key>Headers/SnailMenuBarButton.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Nu/Xf2iF3/BZgUeqJAKUVOH5VQU=
+			6MEXFTUD+f0BFGRROqIMqe5W6kY=
 			</data>
 			<key>hash2</key>
 			<data>
-			i2AYBzNKRM87eWwvzQOKMN8FQI37tkGUtqkfCpa+Ufc=
+			nDiqnErizoy7H9AI1QzfdQCxRUJeCRDvbGGamYNbNCw=
 			</data>
 		</dict>
 		<key>Headers/SnailMenuBarController.h</key>
@@ -1537,11 +1537,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qUjQ2AZwrYUjAWYiJcqA5EAR0JU=
+			LY/S5b5CAKKPnSRMYVH97op0380=
 			</data>
 			<key>hash2</key>
 			<data>
-			5g0woOzTdn/l0DuPLn1eq3LOqzZvUGlxbq8n6U+KRqk=
+			Gyi7LslhVFPUKei0jnnqYLWwDCjMZzzLHTBR+tm2gS4=
 			</data>
 		</dict>
 		<key>Headers/SnailMenuContent.h</key>
@@ -1564,6 +1564,17 @@
 			<key>hash2</key>
 			<data>
 			4skDiQbYoGcGAN2uwfXERsc9SW0hdmMZ2kUNvCs/nLc=
+			</data>
+		</dict>
+		<key>Headers/SnailNumberFiled.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NYDw4UVFkGqUA+o6pQL2rGMpMok=
+			</data>
+			<key>hash2</key>
+			<data>
+			dCSoNbeevTlmmE8vqnbE1P4PxYp+JgrcgK60eerYqd4=
 			</data>
 		</dict>
 		<key>Headers/SnailPhotoFlowLayout.h</key>
@@ -1614,33 +1625,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UUWVulLdQTu/66m2xeOFtTAxQOQ=
+			KaREEipIcZpq7tGtWXUJ8m46dpk=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZM7YnSUZlNOS3xVf1dkJU+cjoAvScy7ZOuAJGWioGxk=
+			7UFbjBOkTnAmPTv99iBSSWKPzCFo+KZmz9SSvDOHWok=
 			</data>
 		</dict>
 		<key>Headers/SnailPostManProtocol.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IVL6nFIegL5kOB6dqdsD08Tv0uY=
+			IrYadHAAEDAub1nEnjAVbljeYao=
 			</data>
 			<key>hash2</key>
 			<data>
-			5MfZRt+chJ62MSB2R6akUh9yFJTCAT5gfacRil5mfIo=
+			NFAJcu+TQWwy4D0QRG8HU1qIVnrkdC9nC/kXFQtbvTg=
 			</data>
 		</dict>
 		<key>Headers/SnailPostManSession.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3sdYMFopPLHGcZQwUps/9dt07mo=
+			nuUthZ6vg5bqyIxQP8djzzBsacc=
 			</data>
 			<key>hash2</key>
 			<data>
-			i+NKJVnZSt9ZD9ZVvY/uelP/b0QVoknQlyy6+kZzvPA=
+			gHp2BNRYexW1R2E1iGtA2Y3ws9sVmlHXmv9dj0n3W9k=
 			</data>
 		</dict>
 		<key>Headers/SnailScanCodeController.h</key>
@@ -1735,44 +1746,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Yj6dxWh9MkLHs9eBOzJQh05RILg=
+			2qHRvruelp+g3AHohfeRHDFV7rI=
 			</data>
 			<key>hash2</key>
 			<data>
-			GsIw1eo6JgQadPZuFLhoaqhUzfEIx89ngHHSdVQr/R4=
+			MMHo1xj3UVD9efNfzxxYJeimbuax/oruhcHTrejCClQ=
 			</data>
 		</dict>
 		<key>Headers/SnailStarBar.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PSvxTPFQOElil3VtDZUFhze4Dv0=
+			wtMZM/3P7udL1CyuinHxouocyMM=
 			</data>
 			<key>hash2</key>
 			<data>
-			f+4vGojK3DAD5syF20DaST3QCMGx44YVFDahww3XcaI=
+			UTkSuGGpXREiLqzZl8tt/zTnAAv3f2+WJvdnVfZEuAs=
 			</data>
 		</dict>
 		<key>Headers/SnailTextView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VDuPiwirHl/rviSY8yRfnzD+P4s=
+			5/lIQ3oTeXds4LU2LF/8lAJqc0g=
 			</data>
 			<key>hash2</key>
 			<data>
-			D6beBDW2/W/tMWtoG67+dTvXg9FCChHbklhf56rgYqA=
+			uyNv27jMwxe/UFp2aOUtXV80nJg6kcm9dMqX43/w8Lc=
 			</data>
 		</dict>
 		<key>Headers/SnailTool.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1rKYlIIXvP7JCZvCTFsTI44K6/o=
+			I/In8JBbWKm05moTPiCE4w0NgRs=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ra3npIQ7ngDfQ+AzOjTSIrSiniY3pFavCYCAmdZvF/8=
+			+Ykthve778A4xvP3ncGNCozU7tmrcMAjjiuvtLkYsQ4=
 			</data>
 		</dict>
 		<key>Headers/SnailUncaughtException.h</key>
@@ -1801,11 +1812,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1HwXaS4J659L+Jp40UziC0SrFxQ=
+			4lolkUu5EzNQgCEdMzcaig2lTug=
 			</data>
 			<key>hash2</key>
 			<data>
-			oXM2YmE6WxnEXNHK3KJRyYRoCJ4VrIzriuJlEIqCGb4=
+			x9uU1uWkxDr8JcyCqUSEJ0+XLSgA8l7EKw2MMpklWVw=
 			</data>
 		</dict>
 		<key>Headers/UIColor+Snail.h</key>
@@ -1916,17 +1927,6 @@
 			<key>hash2</key>
 			<data>
 			i6ZL0P4+neie6wDVuADS06MxHf/UZMqbwexKexW5PHI=
-			</data>
-		</dict>
-		<key>PrivateHeaders/_SnailBadgeDragView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yXCDoqNcZpbyo209oS4xduqplJI=
-			</data>
-			<key>hash2</key>
-			<data>
-			yCdf4hLjsTo1DSBeNIiRwIiMjaki/sVLBHBS5OUZXso=
 			</data>
 		</dict>
 		<key>SnailKitAssets.bundle/SnailChatUIDefaultBubble.bundle/chat_from_bg_normal@2x.png</key>

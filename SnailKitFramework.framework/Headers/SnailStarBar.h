@@ -20,6 +20,8 @@
 @property (nonatomic) CGSize starSize;
 @property (nonatomic) CGFloat starHSpaceing;
 
+@property (nonatomic ,copy) void(^didSlectedStarBlock)(NSNumber *count);
+
 - (NSNumber *)takeSelectedCount;
 - (void)setSelectedCount:(NSNumber *)count;
 

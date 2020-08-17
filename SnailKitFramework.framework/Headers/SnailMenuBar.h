@@ -22,6 +22,8 @@ typedef NS_ENUM(NSInteger, SnailMenuBarTileType) {
     SnailMenuBarTileType_Equal,
     ///跟随内容大小
     SnailMenuBarTileType_Track,
+    ///标题宽度固定
+    SnailMenuBarTileType_Static,
 };
 
 @protocol SnailMenuBarProtocol <NSObject>
@@ -40,7 +42,9 @@ typedef NS_ENUM(NSInteger, SnailMenuBarTileType) {
 @property (nonatomic) SnailMenuBarIndicatorWidthStyle indicatorWidthStyle;
 @property (nonatomic) SnailMenuBarAskOrderType askOrderType;
 @property (nonatomic) SnailMenuBarTileType tileType;
+@property (nonatomic) BOOL translucent;
 
+///和外部管理的滚动视图
 @property (nonatomic ,weak) UIScrollView *scrol;
 
 @property (nonatomic ,readonly) NSInteger selectedIndex;
@@ -52,6 +56,11 @@ typedef NS_ENUM(NSInteger, SnailMenuBarTileType) {
 
 ///平铺时每页的数量
 @property (nonatomic) NSInteger pageCount;
+///定宽时（SnailMenuBarTileType_Static） 标题的宽度
+@property (nonatomic) CGFloat titleWidth;
+
+///保证至少需要显示的个数 比如：选中一个item之后，会根据相较于之前是向前还是向后 保证这个item之后或之前的 多少个item可见
+@property (nonatomic) NSInteger extendAvailableCount;
 
 ///指示器高度
 @property (nonatomic) CGFloat indicatorHeight;

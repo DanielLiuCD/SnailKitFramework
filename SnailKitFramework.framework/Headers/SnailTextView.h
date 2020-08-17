@@ -19,9 +19,8 @@
 @property (nonatomic ,strong) NSString *placeHolder;
 ///占位字符的颜色
 @property (nonatomic ,strong) UIColor *placeHolderColor;
-
+///数字改变回调
 @property (nonatomic ,copy) void(^textChangedBlock)(UITextView *textView);
-
 ///可输入的最大字符数
 @property (nonatomic) NSInteger characterNumberLimit;
 

@@ -56,4 +56,10 @@
 @property (nonatomic ,copy) void(^uploadProgressBlock)(NSProgress *progress,NSInteger tag,id context);
 @property (nonatomic ,copy) void(^downloadProgressBlock)(NSProgress *progress,NSInteger tag,id context);
 
+///返回所有的postMan的子类的path属性
++ (NSArray<NSString *> *)allPaths;
+
+///返回所有的postMan的子类
++ (NSArray<NSString *> *)allPostMans;
+
 @end

@@ -16,8 +16,11 @@
 @property (nonatomic ,strong) UILabel *titleLabel;
 
 @property (nonatomic ,strong) UIView *badgeContainer;
+@property (nonatomic ,strong) UIImageView *badgeBackgroundImageView;
 @property (nonatomic ,strong) UILabel *badgeLabel;
 @property (nonatomic ,strong) UIView *badgePointView;
+
+@property (nonatomic ,strong) UIImageView *badgeMaskImageV;
 
 - (void)setItem:(SnailMenuBarItem *)item;
 

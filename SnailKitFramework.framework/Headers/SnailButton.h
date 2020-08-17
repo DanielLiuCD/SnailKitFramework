@@ -12,13 +12,26 @@ typedef NS_ENUM(NSInteger,SnailButtonLayout) {
     SnailButtonLayoutImageBottom,
 };
 
+typedef NS_ENUM(NSInteger,SnailButtonAlignment) {
+    SnailButtonAlignmentCenter,
+    SnailButtonAlignmentLeft,
+    SnailButtonAlignmentRight,
+    SnailButtonAlignmentTop,
+    SnailButtonAlignmentBottom,
+    SnailButtonAlignmentLeftTop,
+    SnailButtonAlignmentLeftBottom,
+    SnailButtonAlignmentRightTop,
+    SnailButtonAlignmentRightBottom,
+};
+
 @interface SnailButton : UIControl
 
 @property (nonatomic ,readonly) CGFloat spaceing;
-@property (nonatomic ,readonly) CGFloat padding;
+@property (nonatomic ,readonly) CGFloat padding; //布局方向上距离边界的距离
 @property (nonatomic ,readonly) SnailButtonLayout layout;
 @property (nonatomic ,readonly) UILabel *titleLabel;
 @property (nonatomic ,readonly) UIImageView *imageView;
+@property (nonatomic) SnailButtonAlignment alignment;
 
 - (void)setSpaceing:(CGFloat)spaceing;
 - (void)setPadding:(CGFloat)padding;

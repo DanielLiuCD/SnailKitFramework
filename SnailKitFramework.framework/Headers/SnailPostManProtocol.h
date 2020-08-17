@@ -98,7 +98,7 @@ typedef NS_ENUM(NSInteger ,SnailPostManCacheStrategy) {/**缓存策略*/
 ///超时时间
 + (NSTimeInterval)timeLimit;
 ///处理响应数据
-+ (void)handleResponse:(id)response SuccessBlock:(void(^)(id response))successBlock FaliedBlock:(void(^)(NSError *error))faliedBlock;
++ (void)handleResponse:(id)response Class:(Class)cls Tag:(NSInteger)tag Context:(id)context SuccessBlock:(void(^)(id response))successBlock FaliedBlock:(void(^)(NSError *error))faliedBlock;
 
 @optional
 ///服务器版本
@@ -113,5 +113,7 @@ typedef NS_ENUM(NSInteger ,SnailPostManCacheStrategy) {/**缓存策略*/
 + (SnailPostManRequestStrategy)requestStrategy;
 ///缓存策略
 + (SnailPostManCacheStrategy)cacheStrategy;
+///错误信息处理
++ (NSError *)handleError:(NSError *)error Class:(Class)cls Tag:(NSInteger)tag Context:(id)context;
 
 @end

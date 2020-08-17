@@ -11,6 +11,10 @@
 @protocol SnailViewControllerConfigure <NSObject>
 
 @optional
+///导航栏的半透明
++ (BOOL)translucent;
+///是否显示导航栏底部黑线
++ (BOOL)navagationBarLine;
 ///导航栏背景颜色
 + (UIColor *)navagationBarBackgroundColor;
 ///导航栏背景图片
@@ -21,10 +25,8 @@
 + (UIColor *)navagationBarTintColor;
 ///返回按钮图片
 + (UIImage *)navagationBackItemImage;
-
 ///controller背景颜色
 + (UIColor *)viewControllerBackgroundColor;
-
 ///该方法在 controller自身方法之前调用
 + (void)viewDidLoad:(UIViewController *)controller;
 
@@ -63,6 +65,16 @@
 
 - (void)appendBlackList:(Class)controllerClass;
 - (void)removeBlackList:(Class)controllerClass;
+
+- (void)appendStringBlackList:(NSString *)controllerClassString;
+- (void)removeStringBlackList:(NSString *)controllerClassString;
+
+- (void)appenPrefixBlackList:(NSString *)controllerClassPrefixString;
+- (void)removePrefixBlackList:(NSString *)controllerClassPrefixString;
+
+- (NSArray<Class> *)blackList;
+- (NSArray<NSString *> *)stringBlackList;
+- (NSArray<NSString *> *)prefixBlackList;
 
 - (void)pauseAll;
 - (void)resumeAll;
